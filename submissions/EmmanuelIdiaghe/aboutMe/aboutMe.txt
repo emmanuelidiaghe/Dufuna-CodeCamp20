@@ -1,2 +1,2 @@
-Hello,
-I am Emmanuel Idiaghe and I am in the process of becoming a software engineer.
+Hello there,
+I am Emmanuel Idiaghe and am in the process of becoming a software engineer at Dufuna CodeCamp. I hope that by the end of the codecamp, I would have gained necessary software engineering skills.
